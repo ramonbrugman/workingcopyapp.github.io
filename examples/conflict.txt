@@ -1,0 +1,5 @@
+Sometimes files cannot be automatically 
+merged because your local changes conflict
+with the changes from the commits merged.
+
+Use all chunks from HEAD or temp by tapping next to the filename.
