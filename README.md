@@ -29,3 +29,10 @@ If you have questions you can check out the [Users’ guide](working-copy://manu
 misbehaving or missing critical features write me at [anders@workingcopyapp.com](mailto:anders@workingcopyapp.com).
 
 ![Anders Borum](/examples/anders.png)
+
+
+We should have permanent redirect for
+   x-callback-url-html   => url-schemes.html   &
+   g/index.html          => git/index.html
+to avoid slow javascript redirect.
+
